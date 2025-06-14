@@ -5,9 +5,10 @@
 ![Аватар](images/avatar.jpg)
 
 ## <span style="color: #1e90ff"> Технологии</span>
-- **Языки**: PHP, JavaScript, Python, Java, C++  
-- **Инструменты**: Git, Docker  
-- **Фреймворки**: Laravel, Bootstrap  
+- **Языки программирования**: 🟢 PHP, 🟡 JavaScript, 🟡 Python, 🟠 Java, 🟠 C++
+- **Технологии веб-разработки**: 🟢 HTML, 🟡 CSS
+- **Инструменты**: 🟢 Git, 🟠 Docker
+- **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap
 
 ## <span style="color: #1e90ff"> Мои учебные проекты</span>
 - **[SocialNetwork](https://github.com/scdoooo/SocialNetwork)**: Социальная сеть, разработанная на Laravel.  
