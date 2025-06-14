@@ -7,7 +7,7 @@
 ## Технологии</span>
 - **Языки программирования**: 🟢 PHP, 🟡 JavaScript, 🟡 Python, 🟠 Java, 🟠 C++
 - **Технологии веб-разработки**: 🟢 HTML, 🟡 CSS
-- **Базы данных**: 🟢 SQL, 🟢 MySQL, 🟡 SQLite
+- **Базы данных**: 🟢 SQL, 🟢 SQLite, 🟡 MySQL
 - **Инструменты**: 🟢 Git, 🟠 Docker
 - **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap
 
