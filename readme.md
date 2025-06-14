@@ -4,7 +4,7 @@
 
 ![Аватар](images/avatar.jpg)
 
-## <span style="color: #1e90ff">🛠 Технологии</span>
+## <span style="color: #1e90ff"> Технологии</span>
 - **Языки**: PHP, JavaScript, Python, Java, C++  
 - **Инструменты**: Git, Docker  
 - **Фреймворки**: Laravel, Bootstrap  
