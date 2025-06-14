@@ -1,6 +1,6 @@
 # Шалом алейхем!
 
-   ![img](images/avatar.jpg)
+   ![img](images/realavatar.jpg)
 
 # Краткое описание: 
 Студент, учитель, программист.
