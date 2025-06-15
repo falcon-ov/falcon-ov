@@ -7,7 +7,7 @@
 - **Технологии веб-разработки**: 🟢 HTML, 🟡 CSS
 - **Базы данных**: 🟢 SQL, 🟢 SQLite, 🟡 MySQL
 - **Инструменты**: 🟢 Git, 🟠 Docker
-- **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap
+- **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap, 🟡 Vue.js
 
 ## Мои учебные проекты</span>
 - **[SocialNetwork](https://github.com/scdoooo/SocialNetwork)**: Социальная сеть, разработанная на Laravel.  
