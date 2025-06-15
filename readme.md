@@ -10,8 +10,8 @@
 - **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap, 🟡 Vue.js
 
 ## Мои учебные проекты</span>
-- **[SocialNetwork](https://github.com/scdoooo/SocialNetwork)**: Социальная сеть, разработанная на Laravel.  
-- **[TaskManager](https://github.com/scdoooo/TaskManager)**: Таск-менеджер, написанный на чистом PHP.  
+- **[SocialNetwork](https://github.com/falcon-ov/social-network-laravel)**: Социальная сеть, разработанная на Laravel.  
+- **[TaskManager](https://github.com/falcon-ov/pure-php-review)**: Таск-менеджер, написанный на чистом PHP.  
 
 ## Связаться со мной</span>
 -  **Email**: [vinifon4he@gmail.com](mailto:vinifon4he@gmail.com)  
