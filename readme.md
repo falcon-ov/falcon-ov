@@ -10,8 +10,9 @@
 - **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap, 🟡 Vue.js
 
 ## Мои учебные проекты</span>
-- **[LibraryApp](https://github.com/falcon-ov/laravel-library-app)**: Простое веб-приложение для управления библиотекой, разработанное на Laravel. 
-- **[TaskManager](https://github.com/falcon-ov/pure-php-review)**: Таск-менеджер, написанный на чистом PHP.  
+- **[TaskManager](https://github.com/falcon-ov/pure-php-review)**: Таск-менеджер, написанный на чистом PHP.
+- **[Лабораторные работы по php](https://github.com/falcon-ov?tab=repositories)** : репозитории awd-php-lab(1-4).
+-  [В процессе] <del> **[LibraryApp](https://github.com/falcon-ov/laravel-library-app)**: Простое веб-приложение для управления библиотекой, разработанное на Laravel. </del>
 
 ## Связаться со мной</span>
 -  **Email**: [vinifon4he@gmail.com](mailto:vinifon4he@gmail.com)  
