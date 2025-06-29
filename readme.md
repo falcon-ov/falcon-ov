@@ -4,10 +4,10 @@
 
 ## Технологии</span>
 - **Языки программирования**: 🟢 PHP, 🟡 JavaScript, 🟡 Python, 🟠 Java, 🟠 C++
-- **Технологии веб-разработки**: 🟢 HTML, 🟡 CSS
+- **Технологии веб-разработки**: 🟢 HTML, 🟢 CSS
 - **Базы данных**: 🟢 SQL, 🟢 SQLite, 🟡 MySQL
 - **Инструменты**: 🟢 Git, 🟠 Docker
-- **Фреймворки**: 🟢 Laravel, 🟡 Bootstrap, 🟡 Vue.js
+- **Фреймворки**: 🟢 Laravel, 🔴 Bootstrap, 🔴 Vue.js
 
 ## Мои учебные проекты</span>
 - **[TaskManager](https://github.com/falcon-ov/pure-php-review)**: Таск-менеджер, написанный на чистом PHP.
