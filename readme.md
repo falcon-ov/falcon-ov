@@ -11,6 +11,7 @@
 
 ## Мои учебные проекты</span>
 - **[TaskManager](https://github.com/falcon-ov/pure-php-review)**: Таск-менеджер, написанный на чистом PHP.
+- **[Индивидуальная работа по php](https://github.com/falcon-ov/awd-php-ind)** : Веб-приложение для изучения профессиональных терминов.
 - **[Лабораторные работы по php](https://github.com/falcon-ov?tab=repositories)** : репозитории awd-php-lab(1-4).
 -  [В процессе] <del> **[LibraryApp](https://github.com/falcon-ov/laravel-library-app)**: Простое веб-приложение для управления библиотекой, разработанное на Laravel. </del>
 
