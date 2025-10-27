@@ -1,7 +1,11 @@
-# Привет, я Даниил Соколов! </span>
+# Hi, I'm Daniil Socolov!
 
-Я студент USM INFORMATICA (2023–2026), работаю преподавателем в IT-академии для детей 6-16 лет. Люблю изучать новые технологии и разбираться в сложных концепциях. На данный момент я активно изучаю веб-разработку, углубляясь в связанные с ней технологии и концепции, включая паттерн проектирования MVC и современные инструменты, используемые в профессиональной разработке.
+Java Developer (since 2025), familiar with PHP, Golang, C++, Python, and JavaScript  
+Programming teacher for children and teenagers (since 2024)  
+Student of Informatica at USM (2023–2026)  
+Publishing educational and personal projects on GitHub  
+Technologies: Java, Spring, Hibernate, Maven, SQL, Git  
 
-## Связаться со мной</span>
--  **Email**: [vinifon4he@gmail.com](mailto:vinifon4he@gmail.com)  
--  **Telegram**: [@scdoooo](https://t.me/scdoooo)  
+## Contact Me
+- **Email**: [daniilsocolov.impact@gmail.com](mailto:daniilsocolov.impact@gmail.com)
+- **Telegram**: [@scdoooo](https://t.me/scdoooo)
