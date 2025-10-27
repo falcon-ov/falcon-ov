@@ -7,5 +7,6 @@ Publishing educational and personal projects on GitHub
 Technologies: Java, Spring, Hibernate, Maven, SQL, Git  
 
 ## Contact Me
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/daniil-socolov-341455362)
 - **Email**: [daniilsocolov.impact@gmail.com](mailto:daniilsocolov.impact@gmail.com)
 - **Telegram**: [@scdoooo](https://t.me/scdoooo)
